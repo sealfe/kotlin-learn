@@ -24,4 +24,3 @@ tailrec fun findlistNode(head: ListNode?, value: Int): ListNode? {
 }
 
 
-}
